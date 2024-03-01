@@ -2,55 +2,55 @@
     "projects" : [
 
     {
-      "src": "assets/image-projects/resume.png",
+      "src": "https://i.imgur.com/jpqPf3m.png",
       "alt": "Wellington Junior Resume",
       "descricao": "",
       "href": "https://resume-kappa-murex.vercel.app"
     },
     {
-      "src": "assets/image-projects/code-connect.png",
+      "src": "https://i.imgur.com/h7PHIS6.png",
       "alt": "Code-connect Project",
       "descricao": "",
       "href": "https://code-connect-eta.vercel.app"
     },
     {
-      "src": "assets/image-projects/fokus.png",
+      "src": "https://i.imgur.com/3oH6R8f.png",
       "alt": "Fokus Project",
       "descricao": "",
       "href": "https://fokus-mocha.vercel.app"
     },
     {
-      "src": "assets/image-projects/musico-ygor.png",
+      "src": "https://i.imgur.com/1OkJGZt.png",
       "alt": "Ygor Music Project",
       "descricao": "",
       "href": "https://musico-ygor.vercel.app"
     },
     {
-      "src": "assets/image-projects/locadora.png",
+      "src": "https://i.imgur.com/EbMmTVm.png",
       "alt": "Rental Project",
       "descricao": "",
       "href": "https://locadora-ten.vercel.app"
     },
     {
-      "src": "assets/image-projects/secret-number.png",
+      "src": "https://i.imgur.com/e2w7Rlk.png",
       "alt": "Secret Nujmber Project.",
       "descricao": "",
       "href": "https://secret-number-sigma.vercel.app"
     },
     {
-      "src": "assets/image-projects/calculator.png",
+      "src": "https://i.imgur.com/kMmWhoo.png",
       "alt": "Calculator Project",
       "descricao": "",
       "href": "https://calculator1-0.vercel.app"
     },
     {
-      "src": "assets/image-projects/array-project.png",
+      "src": "https://i.imgur.com/SNAPPYJ.png",
       "alt": "Learning Array Project",
       "descricao": "",
       "href": "https://array-js-kohl.vercel.app"
     },
     {
-      "src": "assets/image-projects/api-project.png",
+      "src": "https://i.imgur.com/OlsYR4b.png",
       "alt": "Learning how to consume data from an API",
       "descricao": "",
       "href": "https://js-consumindo-dados-api-tau.vercel.app"
