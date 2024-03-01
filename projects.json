@@ -1,0 +1,60 @@
+{
+    "projects" : [
+
+    {
+      "src": "assets/image-projects/resume.png",
+      "alt": "Wellington Junior Resume",
+      "descricao": "",
+      "href": "https://resume-kappa-murex.vercel.app"
+    },
+    {
+      "src": "assets/image-projects/code-connect.png",
+      "alt": "Code-connect Project",
+      "descricao": "",
+      "href": "https://code-connect-eta.vercel.app"
+    },
+    {
+      "src": "assets/image-projects/fokus.png",
+      "alt": "Fokus Project",
+      "descricao": "",
+      "href": "https://fokus-mocha.vercel.app"
+    },
+    {
+      "src": "assets/image-projects/musico-ygor.png",
+      "alt": "Ygor Music Project",
+      "descricao": "",
+      "href": "https://musico-ygor.vercel.app"
+    },
+    {
+      "src": "assets/image-projects/locadora.png",
+      "alt": "Rental Project",
+      "descricao": "",
+      "href": "https://locadora-ten.vercel.app"
+    },
+    {
+      "src": "assets/image-projects/secret-number.png",
+      "alt": "Secret Nujmber Project.",
+      "descricao": "",
+      "href": "https://secret-number-sigma.vercel.app"
+    },
+    {
+      "src": "assets/image-projects/calculator.png",
+      "alt": "Calculator Project",
+      "descricao": "",
+      "href": "https://calculator1-0.vercel.app"
+    },
+    {
+      "src": "assets/image-projects/array-project.png",
+      "alt": "Learning Array Project",
+      "descricao": "",
+      "href": "https://array-js-kohl.vercel.app"
+    },
+    {
+      "src": "assets/image-projects/api-project.png",
+      "alt": "Learning how to consume data from an API",
+      "descricao": "",
+      "href": "https://js-consumindo-dados-api-tau.vercel.app"
+    }
+  ]
+  
+}
